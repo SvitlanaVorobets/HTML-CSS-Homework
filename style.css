@@ -17,9 +17,9 @@
 .footer__title {
 	color: white;
 	margin: 0;
-    padding: 60px;
-    text-align: center;
-    font-family: sans-serif;
+        padding: 60px;
+        text-align: center;
+        font-family: sans-serif;
 }
 
 .row {
@@ -38,7 +38,7 @@
 	padding: 8px;
 	margin: 5px;
 	white-space: nowrap;
-    font-family: sans-serif;
+        font-family: sans-serif;
 }
 
 @media(min-width: 320px) {
